@@ -9,7 +9,7 @@
 * 200g rice
 * thyme
 * 1 tsp soy
-* 125ml white wine
+* 125ml white wine (~1/2 cup)
 * 650g Stock
 
 * salt & pepper

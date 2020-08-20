@@ -5,9 +5,12 @@
 or
 * 1 kg Cake flour + 8 tsp Baking powder 
 
-* 1/2 tsp Salt (half tsp)
-* 200 g Sugar  (1 cup)
 * 250 g Butter 
+* 1/2 tsp Salt (half tsp)
+
+* 2 eggs
+* 200 g Sugar  (1 cup)
+
 * 500 ml Buttermilk rinse container with another 50 ml milk. (If dough too stiff no harm to add an extra bit of milk. It's rather like a soft bread dough)
 
 ## Directions

@@ -26,10 +26,7 @@
 
 
 ## Directions
-
-* Saute dry ingredients
-* Add wine
-* add stock
-* pressure cook 5 min
-* add herbs and cheese
-
+1. Mix Marinade
+2. Place belly in oven proof dish, pour marinade next to belly, keeping skin dry.
+3. Cook at 1h @ 220C
+4. Cook 30 min at 150C.

@@ -5,7 +5,7 @@
 * 1 tablespoon peanut oil
 * salt and ground black pepper to taste
 
-* 650g-700g pounds boneless, skinless chicken, cut into bite-size pieces
+* 650g-700g boneless, skinless chicken, cut into bite-size pieces
 
 * 1 Tablespoon grated fresh ginger
 

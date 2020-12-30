@@ -23,3 +23,6 @@
 * 1 Tbsp of freshly chopped chervil (1 to start with then add the other 1 at the end)
 * 1 tsp of black peppercorn (roughly crushed)
 * a pinch salt for the seasoning
+
+
+https://www.seriouseats.com/recipes/2015/04/foolproof-bearnaise-sauce-recipe.html

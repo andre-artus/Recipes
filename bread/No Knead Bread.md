@@ -14,6 +14,6 @@
 * dust dough with dry flour and turn out onto a flour dusted board
 * Letter fold twice, 2nd at 90 degrees to 1st.
 * Allow to settle for 2h
-* Preheat dutch oven 200C
-* Place in preheated dutch oven, bake for 20 min covered.
+* Preheat dutch oven 200C-230C (depending on oven)
+* Place in preheated dutch oven, bake for 20-30 min covered.
 * Uncover and bake further 15 min.

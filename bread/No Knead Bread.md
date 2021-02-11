@@ -6,6 +6,13 @@
 * 8 g salt
 * 300 g water
 
+### Ingredients
+* 500 g   bread flour
+* 375 g   water
+* 0.625 g   salt
+* 10 g   yeast
+* 20 g  oil
+
 
 ### Method
 * Combine and mix dry ingredients.

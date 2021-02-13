@@ -51,3 +51,12 @@ Soft ball: ~116C at sea level. Boil water and take temp. Determine `difference` 
 * salt  1/2 tsp
 * vanilla   3 tsp
 
+
+## ALT
+* sugar   2100    g
+* molasses    150 g
+* butter  495 g
+* cream   1500    g
+* milk    495 g
+* salt    3/8 tsp
+* vanilla 4.5 tsp

@@ -26,3 +26,23 @@
 
 
 https://www.seriouseats.com/recipes/2015/04/foolproof-bearnaise-sauce-recipe.html
+
+
+### Serious Eats
+* 1/4 cup white wine vinegar
+* 1/2 cup dry white wine
+* 3 sprigs tarragon, leaves finely minced, stems reserved separately
+* 3 sprigs chervil, leaves finely minced, stems reserved separately 
+* 1 small shallot, roughly chopped
+* 1/2 teaspoon whole black peppercorns
+
+Reduce until 1.5 Tbsp.
+
+* 2 egg yolks
+* pinch salt
+
+Combine with blender
+
+* 170 grams melted unsalted butter (hot)
+
+Blend melted butter

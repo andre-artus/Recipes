@@ -1,4 +1,4 @@
-# Chocolate Cake with Oil
+# Sachertorte Ganache
 
 ## Ingredients
 
@@ -11,7 +11,8 @@
 
 
 ### Method
-1. Add all except vanila to pot
-2. Heat and stir on low to disolve sugar
+1. Add all except vanilla to pot
+2. Heat and stir on low to dissolve sugar
 3. Simmer gently until 95C (soft ball) 3-4 mins
-4. Add vanilla at 90C
+4. Turn down heat and allow to cool until 90C
+5. Add vanilla at 90C

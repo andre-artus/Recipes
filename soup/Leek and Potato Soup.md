@@ -11,7 +11,7 @@
 * Bay leaf
 * 400 ml of water
 * a pinch of black pepper
-* 200 ml of double cream [^cream]
+* 200 ml of double cream [^1]
 
 ## Directions
 * Sweat leeks
@@ -23,6 +23,6 @@
 * Add pepper & cream
 
 
-[^cream]: Cream (200 g) can be substituted with:
+[^1]: Cream (200 g) can be substituted with:
     86g butter
     114g milk

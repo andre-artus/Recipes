@@ -1,16 +1,16 @@
 # Macaroni and Cheese
 
 ## Ingredients 
-* 500g Macaroni
+* 250g Macaroni
 
-* 120 ml butter
-* 120 ml flour
-* 590 ml milk
-* 240 ml cream
+* 60 g butter 
+* 50 g flour
+* 125 ml cream
+* 300 ml milk
 * salt
 * white pepper
 * nutmeg
-* 1L cheese
+* 100 - 200 g cheddar cheese
 * thyme (optional)
 
 
@@ -26,15 +26,6 @@
 * layer mac and grated cheese
 * mix topping cheese with thyme
 * sprinkle panko or bread crumbs
-* bake @ 170C to 180C for 20-25min
-
-
-120 ml B @  1g / 0.96ml 
-
-120 * 96
-12000 - 4*120 = 11000  + 1000 - 480 = 11520 = 115.2g butter
-72g flour
-1 cup = 90g cheese
-4 * 90 = 400 - 40 = 360 g cheese
+* bake @ 170 C to 180 C for 20-25min (160 C in mini oven)
 
 

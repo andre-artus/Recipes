@@ -1,4 +1,27 @@
-# Mieliepap 
+# Mieliepap
+
+
+## Ingredients (per person)
+* 1/2 cup mieliemeel
+* 1/2 cup cold water
+* 1 cup hot water
+* 1/4 tsp salt
+* Butter to taste
+* thyme
+
+
+## Directions (best results)
+* Add cold water to pot
+* Add MM and salt to cold water, stir to hydrate
+* Add boilng water, stirring
+* Add butter, and thyme.
+* Bring to a boil while gently stirring.
+* Lower temp (stir while hot) to medium low and simmer with a lid on for at least 30 min, but preferably longer.
+* My pot does not lose a lot of water, if necessary use more water to get desired consistency.
+* One can stir occasionally.
+* I taste for salt again halfway, losing water increases perceived saltiness.
+
+
 
 ## Ingredients
 * 5 - 6 cups water

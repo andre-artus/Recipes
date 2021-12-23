@@ -22,3 +22,12 @@
 8.  Cool to ambient temperature and then refridgerate.
 9.  Make ice-cream
 
+
+### Ingredients (2x)
+* 540	g	sugar
+* 50	g	cornflour
+* 8			large egg yolks
+* 80	g	golden syrup
+* 600	ml	cream
+* 1540	ml	milk
+* 1		tsp 	vanilla extract

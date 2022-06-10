@@ -12,8 +12,8 @@
 
 
 ### Optional
-* fenel
+* fennel
 * fenugreek
 * coriander
 * allspice
-* tumeric 
+* turmeric 

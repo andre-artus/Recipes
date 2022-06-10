@@ -20,3 +20,11 @@
 |Medium|57°C|1-4h|
 |Medium-well|63°C|1-4h|
 |Well-done|69°C|1-4h|
+
+
+## Vegetables
+
+|Name|Temp|Timing|
+|-------|----|------|
+|Carrots|84°C|1h|
+|Potatoes|84°C - 90°C|1h|

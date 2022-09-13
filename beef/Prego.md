@@ -1,4 +1,4 @@
-# Chicken Thighs And Drums - Peri Peri
+# Prego Steak
 
 ## Ingredients
 
@@ -19,9 +19,19 @@
 * Garlic 2-3 cloves
 * Olive Oil     1/4 - 1/2 cup
 
+* 3 tbsp Peri-Peri sauce
+* ½ cup tomato puree
+* 2 tbsp lemon juice
+* 2 garlic cloves
+* 1 bay leaf
+* 2 tbsp olive oil
+* 1 tsp sugar (optional)
+* 1-2 tsp salt
+
+
 ### Other
 
-* 1.5 Kg Chicken Thighs/Legs
+* Beef sirloin
 
 ## Directions
 

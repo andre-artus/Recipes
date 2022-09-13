@@ -1,4 +1,4 @@
-#  Brown Rice (Pressure Cooker)
+# Brown Rice (Pressure Cooker)
 
 ## Ingredients (4-6)
 
@@ -55,3 +55,13 @@
 * 50g Rice wine vinegar
 * 25g sugar
 * 6g salt
+
+
+# Balti:
+* 2 bay leaves
+* 1 medium cinnamon stick
+* 1 cup of basmati rice
+* pinch of saffron
+* pinch of Haldi powder
+* pinch of salt
+* pinch of garam masala

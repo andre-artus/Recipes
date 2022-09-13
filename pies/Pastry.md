@@ -1,4 +1,4 @@
-# Lamb Curry
+# Pie Pastry
 
 ## Ingredients:
 

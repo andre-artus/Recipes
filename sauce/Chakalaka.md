@@ -54,3 +54,5 @@
 3. Add garlic, ginger and chilli and fry for another minute.
 4. Toss in the spices and fry, stirring until everything is well coated.
 5. Add the tomatoes and beans and simmer for 10 minutes, stirring occasionally. 
+
+https://www.checkers.co.za/recipes/pap-chakalaka-and-wors

@@ -21,6 +21,11 @@
 |Medium-well|63°C|1-4h|
 |Well-done|69°C|1-4h|
 
+## Chicken
+
+|Texture|Temp|Timing|
+|Medium|65°C|1-4h|
+
 
 ## Vegetables
 

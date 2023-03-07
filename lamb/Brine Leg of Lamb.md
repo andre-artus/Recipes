@@ -41,3 +41,6 @@ Roasting
 3.    You can put it in a warm oven to reheat for a bit before serving if you want.
 4.    Carve the lamb with a long sharp knife, and serve on heated plates with seasonal vegetables or your favorite accompaniments. 
 
+
+
+https://www.thespruceeats.com/brined-basted-rotisserie-lamb-roast-3994067

@@ -17,11 +17,11 @@ Shallots — 2 small, thinly sliced
 
 Red chilli — 1 small, thinly sliced
 
-White vinegar or rice vinegar — 60 ml (4 tbsp)
+White vinegar or rice vinegar — 60 ml (4 Tbsp)
 
-White sugar — 35–40 g (about 3 tbsp)
+White sugar — 35–40 g (about 3 Tbsp)
 
-Water — 60 ml (4 tbsp)
+Water — 60 ml (4 Tbsp)
 
 Salt — ¼ tsp
 

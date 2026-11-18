@@ -30,3 +30,15 @@ Adapted from the ingredient lists and directions supplied for [MiddleEats' chick
 2. Make the sauce and keep it chilled.
 3. Start the rice about 30 minutes before serving. Preheat the oven grill while it cooks.
 4. Grill the chicken while the rice finishes cooking and resting. Serve with the sauce.
+
+## Lamb Döner Meal for Two
+
+Adapted from [Middle Eats’ döner kebab video](https://www.youtube.com/watch?v=W1OB20BOIEQ).
+
+- [Lamb Döner Kebab](Lamb%20Döner%20Kebab.md) — parchment-rolled lamb mince, oven-baked and pan-seared. Includes assembly for two wraps.
+- [Pickled Red Cabbage](Pickled%20Red%20Cabbage.md) — finely shredded cabbage with lemon and citric acid.
+- [Chilli Ezme](Chilli%20Ezme.md) — chopped tomato, onion and fresh chillies with Turkish red pepper paste.
+- [Döner Garlic Sauce](Döner%20Garlic%20Sauce.md) — mayonnaise and yoghurt with garlic, lemon and dried mint.
+- [Tomato and Parsley Salad](Tomato%20and%20Parsley%20Salad.md) — sliced tomato with parsley and sumac.
+
+Start the cabbage and chill the lamb mixture first. Make the ezme and garlic sauce while they rest, then slice the tomato for the salad while the lamb bakes. Sear the lamb and warm the flatbreads just before serving.
